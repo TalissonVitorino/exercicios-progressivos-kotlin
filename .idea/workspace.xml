@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff4c7957-c9e1-4f7e-b560-2d29e1c2e94e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ex01.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ex02.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ex03.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+    <list default="true" id="ff4c7957-c9e1-4f7e-b560-2d29e1c2e94e" name="Changes" comment="Exercícios 1, 2 e 3.">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ex04.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ex05.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -50,10 +42,14 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/talis/Dev/exercicios-progressivos-kotlin",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Ex03Kt">
+  <component name="RunManager" selected="Kotlin.Ex05Kt">
     <configuration name="Ex01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex01Kt" />
       <module name="exercicios-progressivos-kotlin" />
@@ -75,8 +71,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
+    <configuration name="Ex04Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex04Kt" />
+      <module name="exercicios-progressivos-kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex05Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex05Kt" />
       <module name="exercicios-progressivos-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,10 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Ex05Kt" />
+        <item itemvalue="Kotlin.Ex04Kt" />
         <item itemvalue="Kotlin.Ex03Kt" />
         <item itemvalue="Kotlin.Ex02Kt" />
         <item itemvalue="Kotlin.Ex01Kt" />
-        <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -101,6 +105,19 @@
       <updated>1701780598130</updated>
       <workItem from="1701870741681" duration="10000" />
     </task>
+    <task id="LOCAL-00001" summary="Exercícios 1, 2 e 3.">
+      <option name="closed" value="true" />
+      <created>1701871120076</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701871120076</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercícios 1, 2 e 3." />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercícios 1, 2 e 3." />
   </component>
 </project>

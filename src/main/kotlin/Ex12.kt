@@ -2,7 +2,7 @@ fun main() {
 
     println("Qual era a velocidade do motorista? ")
     val velocidadeMotorista = readln().toDouble()
-    println("Qual era a velocidade maxima da psita? ")
+    println("Qual era a velocidade maxima da pista? ")
     val velocidadePista = readln().toDouble()
     val excessoVelocidade = velocidadeMotorista - velocidadePista
 

@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff4c7957-c9e1-4f7e-b560-2d29e1c2e94e" name="Changes" comment="Exercícios 1, 2, 3, 4, 5 e 6">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ex07.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ex09.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ex10.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ff4c7957-c9e1-4f7e-b560-2d29e1c2e94e" name="Changes" comment="Exercícios 1, 2, 3, 4, 5, 6, 7, 9 e 10">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ex11.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ex12.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +40,9 @@
     "Kotlin.Ex07Kt.executor": "Run",
     "Kotlin.Ex09Kt.executor": "Run",
     "Kotlin.Ex10Kt.executor": "Run",
+    "Kotlin.Ex11.executor": "Run",
+    "Kotlin.Ex11Kt.executor": "Run",
+    "Kotlin.Ex12Kt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -56,28 +57,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Ex10Kt">
-    <configuration name="Ex05Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex05Kt" />
-      <module name="exercicios-progressivos-kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex06Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex06Kt" />
-      <module name="exercicios-progressivos-kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex07Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex07Kt" />
-      <module name="exercicios-progressivos-kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Ex12Kt">
     <configuration name="Ex09Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex09Kt" />
       <module name="exercicios-progressivos-kotlin" />
@@ -92,13 +72,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex11" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex11" />
+      <module name="exercicios-progressivos-kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex11Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex11Kt" />
+      <module name="exercicios-progressivos-kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex12Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex12Kt" />
+      <module name="exercicios-progressivos-kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Ex12Kt" />
+        <item itemvalue="Kotlin.Ex11Kt" />
+        <item itemvalue="Kotlin.Ex11" />
         <item itemvalue="Kotlin.Ex10Kt" />
         <item itemvalue="Kotlin.Ex09Kt" />
-        <item itemvalue="Kotlin.Ex07Kt" />
-        <item itemvalue="Kotlin.Ex06Kt" />
-        <item itemvalue="Kotlin.Ex05Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702047444012</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Exercícios 1, 2, 3, 4, 5, 6, 7, 9 e 10">
+      <option name="closed" value="true" />
+      <created>1702304304088</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702304304088</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,6 +170,7 @@
     <MESSAGE value="Exercícios 1, 2 e 3." />
     <MESSAGE value="Exercícios 1, 2, 3, 4 e 5" />
     <MESSAGE value="Exercícios 1, 2, 3, 4, 5 e 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercícios 1, 2, 3, 4, 5 e 6" />
+    <MESSAGE value="Exercícios 1, 2, 3, 4, 5, 6, 7, 9 e 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercícios 1, 2, 3, 4, 5, 6, 7, 9 e 10" />
   </component>
 </project>

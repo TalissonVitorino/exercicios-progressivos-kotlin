@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff4c7957-c9e1-4f7e-b560-2d29e1c2e94e" name="Changes" comment="Exercícios 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 19">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lista1/Ex20.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lista2/Ex01.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Ex01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lista1/Ex01.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Ex02.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lista1/Ex02.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Ex03.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lista1/Ex03.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Ex04.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lista1/Ex04.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Ex05.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lista1/Ex05.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Ex06.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lista1/Ex06.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Ex07.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lista1/Ex07.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Ex09.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lista1/Ex09.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Ex10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lista1/Ex10.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Ex11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lista1/Ex11.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Ex12.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lista1/Ex12.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Ex13.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lista1/Ex13.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Ex14.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lista1/Ex14.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Ex15.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lista1/Ex15.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Ex19.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lista1/Ex19.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lista1/Main.kt" afterDir="false" />
-    </list>
+    <list default="true" id="ff4c7957-c9e1-4f7e-b560-2d29e1c2e94e" name="Changes" comment="Exercícios 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 19" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702988432390</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Exercícios 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 19">
+      <option name="closed" value="true" />
+      <created>1703005863143</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1703005863143</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

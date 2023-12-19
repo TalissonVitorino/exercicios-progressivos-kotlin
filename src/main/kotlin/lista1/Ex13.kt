@@ -1,3 +1,5 @@
+package lista1
+
 fun main() {
     println("Quanto de latão que você precisa? ")
     val latao = readln().toDouble()

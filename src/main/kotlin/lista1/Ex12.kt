@@ -1,3 +1,5 @@
+package lista1
+
 fun main() {
 
     println("Qual era a velocidade do motorista? ")

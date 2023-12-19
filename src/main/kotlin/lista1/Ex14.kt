@@ -1,3 +1,5 @@
+package lista1
+
 fun main() {
     println("Digite o primeiro numero: ")
     val numero1 = readln().toInt()

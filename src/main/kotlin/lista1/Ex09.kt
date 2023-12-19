@@ -1,3 +1,5 @@
+package lista1
+
 fun main() {
     println("Digite seu nome completo: ")
     val nome = readln()

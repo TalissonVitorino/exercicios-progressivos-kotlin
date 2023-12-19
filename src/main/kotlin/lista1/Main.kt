@@ -1,3 +1,5 @@
+package lista1
+
 fun main() {
 
     print("Digite dois números para serem somados: ")

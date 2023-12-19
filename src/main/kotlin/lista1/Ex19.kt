@@ -1,3 +1,5 @@
+package lista1
+
 import java.util.*
 
 fun main() {

@@ -1,3 +1,5 @@
+package lista1
+
 fun main() {
     val precoDeCusto = lerPrecoDeCusto()
     val imposto = calculaImposto(precoDeCusto)

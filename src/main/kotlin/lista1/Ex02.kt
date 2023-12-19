@@ -1,3 +1,5 @@
+package lista1
+
 fun main() {
     print("Digite uma nota: ")
     val numero1 = readln().toDouble()

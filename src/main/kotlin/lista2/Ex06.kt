@@ -1,9 +1,3 @@
-/*
-tenho qua fazer um while para cria um loop
-
- */
-
-
 package lista2
 
 fun main() {
@@ -21,6 +15,4 @@ fun main() {
         outroProduto *= i
     }
     println(outroProduto)
-
-
 }

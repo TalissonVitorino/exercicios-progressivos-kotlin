@@ -1,10 +1,10 @@
 package lista1
 
 fun main() {
-    println("digite um numero:")
+    println("Digite um numero:")
     val primeiroNumero = readln().toInt()
 
-    println("digite um numero:")
+    println("Digite um numero:")
     val segundoNumero = readln().toInt()
 
     val soma = primeiroNumero + segundoNumero

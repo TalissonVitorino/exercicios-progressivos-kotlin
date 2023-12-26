@@ -17,4 +17,5 @@ fun main() {
         soma += contador
     }
     println("A soma dos números inteiros é: $soma ")
+
 }

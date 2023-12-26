@@ -20,7 +20,6 @@ fun main() {
         else -> println("Reprovado")
     }
 }
-
 //    if (media >= 7) {
 //        println("Aprovado")
 //    } else {

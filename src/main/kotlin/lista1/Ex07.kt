@@ -17,5 +17,4 @@ fun main() {
     } else {
         println("Número menor")
     }
-    //println(if (numero1 > soma) "Número maior" else "Número menor")
 }

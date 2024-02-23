@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff4c7957-c9e1-4f7e-b560-2d29e1c2e94e" name="Changes" comment="Exercícios 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 19">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lista2/Ex02.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lista2/Ex06.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lista2/Ex08.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lista2/Ex09.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lista2/Ex5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lista2/ex10.kt" afterDir="false" />
+    <list default="true" id="ff4c7957-c9e1-4f7e-b560-2d29e1c2e94e" name="Changes" comment="Exercícios">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lista2/Ex14.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lista1/Ex06.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lista1/Ex06.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lista1/Ex14.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lista1/Ex14.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lista2/Ex01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lista2/Ex01.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lista1/Ex01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lista1/Ex01.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lista1/Ex02.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lista1/Ex02.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,44 +35,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.Ex02Kt.executor": "Run",
-    "Kotlin.Ex06Kt.executor": "Run",
-    "Kotlin.Ex07Kt.executor": "Run",
-    "Kotlin.Ex08Kt.executor": "Run",
-    "Kotlin.Ex09Kt.executor": "Run",
-    "Kotlin.Ex10Kt.executor": "Run",
-    "Kotlin.Ex11.executor": "Run",
-    "Kotlin.Ex11Kt.executor": "Run",
-    "Kotlin.Ex12Kt.executor": "Run",
-    "Kotlin.Ex13Kt.executor": "Run",
-    "Kotlin.Ex14Kt.executor": "Run",
-    "Kotlin.Ex15Kt.executor": "Run",
-    "Kotlin.Ex19Kt.executor": "Run",
-    "Kotlin.Ex20Kt.executor": "Run",
-    "Kotlin.Ex5Kt.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/talis/Dev/exercicios-progressivos-kotlin",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.Ex02Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex06Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex07Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex08Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex09Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex10Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex11.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex11Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex12Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex13Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex14Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex15Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex19Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex20Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ex5Kt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/talis/Dev/exercicios-progressivos-kotlin&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\talis\Dev\exercicios-progressivos-kotlin\src\main\kotlin\lista1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Ex10Kt">
+  <component name="RunManager" selected="Kotlin.Ex11Kt">
     <configuration name="Ex06Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lista2.Ex06Kt" />
       <module name="exercicios-progressivos-kotlin" />
@@ -107,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lista2.Ex5Kt" />
+    <configuration name="Ex11Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lista2.Ex11Kt" />
       <module name="exercicios-progressivos-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,18 +110,19 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Ex11Kt" />
         <item itemvalue="Kotlin.Ex10Kt" />
         <item itemvalue="Kotlin.Ex09Kt" />
         <item itemvalue="Kotlin.Ex08Kt" />
         <item itemvalue="Kotlin.Ex06Kt" />
-        <item itemvalue="Kotlin.Ex5Kt" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.1-openjdk-21.0.1-8336523bb0d9-657b72ed" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
       </set>
     </attachedChunks>
   </component>
@@ -229,7 +224,39 @@
       <option name="project" value="LOCAL" />
       <updated>1703006388944</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Exercícios">
+      <option name="closed" value="true" />
+      <created>1703594804176</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1703594804176</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Exercícios">
+      <option name="closed" value="true" />
+      <created>1703594835896</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1703594835896</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Exercícios">
+      <option name="closed" value="true" />
+      <created>1703594902493</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1703594902493</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Exercícios">
+      <option name="closed" value="true" />
+      <created>1703599247071</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1703599247071</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -251,7 +278,8 @@
     <MESSAGE value="Exercícios 1, 2, 3, 4, 5, 6, 7, 9, 10,11 e 12" />
     <MESSAGE value="Exercícios 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15" />
     <MESSAGE value="Exercícios 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 19" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercícios 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 19" />
+    <MESSAGE value="Exercícios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercícios" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
